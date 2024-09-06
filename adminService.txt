@@ -1,7 +1,10 @@
 add and remove useers
 change the roles
 manage the database
-closing the oracle database connection
+
+
+closing the mysql database connection
+
 
 change1
 change2 in harsh's database
